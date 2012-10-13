@@ -1,0 +1,20 @@
+{
+  "name": "stdjson",
+  "version": "1.0.0",
+  "description": "Module for minimally logging JSON to stdout and stderr",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristanls/stdjson.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "json",
+    "stdout",
+    "stderr",
+    "minimal"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
